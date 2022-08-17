@@ -4,3 +4,5 @@ __pycache__
 _*
 !__init__.py
 *.egg-info
+*.xml
+*.iml
